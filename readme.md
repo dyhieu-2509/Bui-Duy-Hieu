@@ -9,26 +9,26 @@
 ## Table of Contents
 
 - **Revision History** .................................................................................. ii
-- **1. Introduction** .......................................................................................... 1  
+- **1. Introduction** ..........................................................................................  
   - 1.1 Purpose  
   - 1.2 Document Conventions  
-- **2. Overall Description** ......................................................................... 1  
+- **2. Overall Description** .........................................................................  
   - 2.1 Product Perspective  
   - 2.2 User Classes and Characteristics  
   - 2.3 Operating Environment  
   - 2.4 Design and Implementation Constraints  
   - 2.5 Assumptions and Dependencies  
-- **3. System Features** .......................................................................... 3  
+- **3. System Features** .......................................................................... 
   - 3.1 Retrieve Top 10 Users  
     - 3.1.1 Description  
   - 3.2 Update User Scores  
     - 3.2.1 Description  
   - 3.3 Real-time Update  
     - 3.3.1 Description  
-- **4. Data Requirements** ................................................................. 6  
+- **4. Data Requirements** .................................................................  
   - 4.1 Logical Data Model  
   - 4.2 Data Integrity, Retention, and Disposal  
-- **5. Quality Attributes** ........................................................................ 10  
+- **5. Quality Attributes** ........................................................................
   - 5.1 Usability Requirements  
   - 5.2 Performance Requirements  
   - 5.3 Security Requirements  
