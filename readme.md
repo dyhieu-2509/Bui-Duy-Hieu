@@ -53,7 +53,7 @@ No special typographical conventions are used in this SRS.
 The Scoreboard Module will replace any manual leaderboard updates by offering automated real-time updates through WebSocket or Server-Sent Events. The backend service will ensure secure and scalable score updates.
 
 
-![scoreboard drawio](https://github.com/user-attachments/assets/5970ea0a-6533-45a8-916d-1aeb587a2dd2)
+![scoreboard drawio](https://github.com/user-attachments/assets/d4ce7dae-6a4e-400a-8859-7d8408577362)
 
 
 Figure 1. Context diagram of the User Login and Score Update Flow.
